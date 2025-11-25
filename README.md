@@ -1,6 +1,9 @@
-# bacula-web.org website
-
+# bacula-web.org website & documentation
 ---
+
+> [!NOTE]
+> Please note that the content of this repository is not updated anymore.
+> The Bacula-Web website and documentation has been moved to the [main git repository](https://github.com/bacula-web/bacula-web).
 
 ## About this git repository
 
